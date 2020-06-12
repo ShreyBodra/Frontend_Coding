@@ -23,30 +23,30 @@ section>h2 {
     border-bottom: 1px solid black;
     border-left: 1px solid black;
     margin: 0;
-    width: 230px;
+    width: 200px;
     text-align: center;
     font-style: Times;
-    font-size: 24px;
-    font-weight: bold;
+    font-size: 25px;
+    font-weight: bold italic;
     height: 45px;
     padding-top: 10px;
 }
 
-section.lebesgue>h2 {
-    background-color: #76b8db;
+section.Brooklyn99>h2 {
+    background-color: blue;
 }
 
-section.fubini>h2 {
-    background-color: #4f7acd;
+section.Stranger Things>h2 {
+    background-color: red;
 }
 
-section.luzin>h2 {
+section.Friends>h2 {
     color: #e2e2e2;
     background-color: #10328a;
 }
 
 section>p {
-    padding: 40px 15px 15px 15px;
+    padding: 50px 15px 15px 15px;
 }
 
 .row {
